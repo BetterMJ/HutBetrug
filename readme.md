@@ -34,7 +34,9 @@ Nun haben wir erfolgreich ein neues Form aufgemacht, wieder zugemacht, während 
 ### Bilder
 Hier noch eine ilddarstellung, wie es für den Benutzer aussehen könnte, wenn man ein neues Fenster öffnet und schliesst:
 ![Programm](https://i.imgur.com/hmW6t4J.jpg)
+
 Beim unteren Bild ist nur 1 Fenster offen:
+
 ![Programm](https://i.imgur.com/R16NKES.jpg)
 ![Programm](https://i.imgur.com/pPxgKDO.jpg)
 
