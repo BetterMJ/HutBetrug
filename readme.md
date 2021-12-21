@@ -23,13 +23,13 @@ Jetzt muss man nur noch schauen, dass man das mainForm, das Form welches man zu 
 Nun sind wir schon fast fertig, jetzt wollen wir nur noch, dass man das Haupt-Form, also das mainForm wieder öffnet, wenn man das neue Fenster schliesst.
 Um dieses durchzuführen müssen wir einfach einen kurzen Code schreiben:
 
-`private void Form2_FormClosed(object sender, FormClosedEventArgs e)`
+``private void Form2_FormClosed(object sender, FormClosedEventArgs e)
 
-        `{`
+        {
         
-            `mainForm.Show();`
+            mainForm.Show();
             
-        `}`
+        }``
         
 
 ### Inhalt
