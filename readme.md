@@ -1,6 +1,6 @@
 # HutBetrug - Gruppe Cookie
 ## Aufgabenstellung
-Dieses Projekt haben wir als Schularbeit in einer 4er Gruppe gemacht. Das Programm soll den Benutzer raten lassen, unter welcher der 3 Hüte die Münze, also der Coin, ist. Hier, bei diesem Portfolio, gehe ich mehr zu einem spezifischen Vorgang, wie man mehrere Form öffnet und wie man diese wieder versteckt.
+Dieses Projekt haben wir als Schularbeit in einer 4er Gruppe gemacht. Das Programm soll den Benutzer raten lassen, unter welcher der 3 Hüte die Münze, also der Coin, ist. Hier, bei diesem Portfolio, gehe ich mehr zu einem spezifischen Vorgang, wie man mehrere Form-Applikationen öffnet und wie man diese wieder versteckt.
 
 1. Der Leser lernt, was eine Form-Applikation ist.
 2. Der Leser erfährt, wie man eine neue Form-Applikation erstellt.
