@@ -14,14 +14,19 @@ Unter einem Form kann man sich ein Fenster vorstellen, welches komplett leer ist
 Es ist gar nicht so schwer, wie man denkt, ein neues Form zu machen. Zuerst geht man zum Projekt, drückt Rechts-Klick darauf und wählt "Hinzufügen" aus, danach fügt man ein "Windows Form" hinzu. jetzt haben wir bereits ein weiteres Form hinzugefügt und können Änderungen anwenden.
 Um mehrere Forms öffnen zu können, fängt es mit dem Code an; gehe zum Haupt-Code und schreibe folgendes:
 
-`Form2 settingsForm = new Form2();
-settingsForm.Show();`
+`Form2 settingsForm = new Form2();`
+`settingsForm.Show();`
 
 Nun haben wir 2 Forms offen.
 Jetzt muss man nur noch schauen, dass man das mainForm, das Form welches man zu Beginn hatte, noch schliesst, damit sich nur das neue Fenster zeigen lässt. Um das neue Form zu schliessen, können wir es einfach mit `mainForm.Hide();` bei dem Start des Programms, unter `InitializeComponent();`, welches Sie bereits im Code haben, einfügen. Dieses muss man in den Code von dem neuen Form einschreiben.
 
 Nun sind wir schon fast fertig, jetzt wollen wir nur noch, dass man das Haupt-Form, also das mainForm wieder öffnet, wenn man das neue Fenster schliesst.
 Um dieses durchzuführen müssen wir einfach einen kurzen Code schreiben:
+
+`private void Form2_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            mainForm.Show();
+        }`
 
 ### Inhalt
 Bild
