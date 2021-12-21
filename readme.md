@@ -8,7 +8,7 @@ Dieses Projekt haben wir als Schularbeit in einer 4er Gruppe gemacht. Das Progra
 4. Der Leser erfährt, wie man eine Form-Applikation schliesst, wenn man eine andere öffnet.
 
 ## Inhalt
-### Inhalt
+### Wie es funktioniert
 Unter einer Form-Applikation kann man sich ein Fenster vorstellen, welches komplett leer ist, jedoch kann man auf diesem auch Funktionen einfügen, wie zum Beispiel einen Knopf, Bilder und mehr. Dadurch kann man einfache oder komplexere Programme erstellen, wie unseres in diesem Fall.
 
 Es ist gar nicht so schwer, wie man denkt, ein neues Fenster zu machen. Zuerst geht man zum Projekt, drückt Rechts-Klick darauf und wählt "Hinzufügen" aus, danach fügt man ein "Windows Forms Application" hinzu. Jetzt haben wir bereits ein weiteres Fenster hinzugefügt und können Änderungen anwenden.
