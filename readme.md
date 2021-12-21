@@ -1,11 +1,11 @@
 # HutBetrug - Gruppe Cookie
 ## Aufgabenstellung
-Dieses Projekt haben wir als Schularbeit in einer 4er Gruppe gemacht. Das Programm soll den Benutzer raten lassen, unter welcher der 3 Hüte die Münze, also der Coin, ist. Hier, bei diesem Portfolio, gehe ich mehr zu einem Spezifischen Vorgang, wie man mehrere Forms öffnet und wie man diese wirder versteckt.
+Dieses Projekt haben wir als Schularbeit in einer 4er Gruppe gemacht. Das Programm soll den Benutzer raten lassen, unter welcher der 3 Hüte die Münze, also der Coin, ist. Hier, bei diesem Portfolio, gehe ich mehr zu einem spezifischen Vorgang, wie man mehrere Forms öffnet und wie man diese wieder versteckt.
 
 1. Der Leser lernt, was ein "Form" ist.
 2. Der Leser erfährt, wie man ein neues Form erstellt.
 3. Der Leser lernt, wie man mehrere Forms gleichzeitig öffnet.
-4. Der Leser erfährt, wie man ein Form schliesst, wenn man ein anderes offen hat.
+4. Der Leser erfährt, wie man ein Form schliesst, wenn man ein anderes öffnet.
 
 ## Inhalt
 ### Inhalt
