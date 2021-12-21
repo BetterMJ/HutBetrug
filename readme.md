@@ -21,18 +21,21 @@ Nun haben wir 2 Forms offen.
 Jetzt muss man nur noch schauen, dass man das mainForm, das Form welches man zu Beginn hatte, noch schliesst, damit sich nur das neue Fenster zeigen lässt. Um das neue Form zu schliessen, können wir es einfach mit `mainForm.Hide();` bei dem Start des Programms, unter `InitializeComponent();`, welches Sie bereits im Code haben, einfügen. Dieses muss man in den Code von dem neuen Form einschreiben.
 
 Nun sind wir schon fast fertig, jetzt wollen wir nur noch, dass man das Haupt-Form, also das mainForm wieder öffnet, wenn man das neue Fenster schliesst.
-Um dieses durchzuführen müssen wir einfach einen kurzen Code schreiben:$
+Um dieses durchzuführen müssen wir einfach einen kurzen Code schreiben:
 
-```private void Form2_FormClosed(object sender, FormClosedEventArgs e)```
+```private void settingsForm_FormClosed(object sender, FormClosedEventArgs e)```
 
         {
-        
             mainForm.Show();
-            
         }
+   
+Nun haben wir erfolgreich ein neues Form aufgemacht, wieder zugemacht, während das mainForm geschlossen war.
 
-### Inhalt
-Bild
+### Bilder
+Hier noch ein kurzer Schritt bei Schritt Bilddarstellung, wie es für den Benutzer aussehen könnte, wenn man ein neues Fenster öffnet uns schliesst:
+![Programm](https://i.imgur.com/hmW6t4J.jpg)
+![Programm](https://i.imgur.com/R16NKES.jpg)
+![Programm](https://i.imgur.com/pPxgKDO.jpg)
 
 ### Video
 Hier ein kurzes Video mit allen Forms und deren Funktionen:
