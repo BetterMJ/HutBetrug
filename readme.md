@@ -12,8 +12,8 @@ Bild
 Video
 
 ## Reflexion / Verifikation
-Er hat das kontrolliert
-
 Gut
 Schlecht
 Nächstes Mal
+
+Er hat das kontrolliert
