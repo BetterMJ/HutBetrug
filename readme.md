@@ -32,7 +32,7 @@ Um dieses durchzuführen müssen wir einfach einen kurzen Code schreiben:
 Nun haben wir erfolgreich ein neues Form aufgemacht, wieder zugemacht, während das mainForm geschlossen war.
 
 ### Bilder
-Hier noch eine ilddarstellung, wie es für den Benutzer aussehen könnte, wenn man ein neues Fenster öffnet und schliesst:
+Hier eine Bilddarstellung, wie es für den Benutzer aussehen könnte, wenn man ein neues Fenster öffnet und schliesst:
 ![Programm](https://i.imgur.com/hmW6t4J.jpg)
 
 Beim unteren Bild ist nur 1 Fenster offen:
