@@ -38,12 +38,12 @@ Hier noch ein kurzer Schritt bei Schritt Bilddarstellung, wie es für den Benutz
 ![Programm](https://i.imgur.com/pPxgKDO.jpg)
 
 ### Video
-Hier ein kurzes Video mit allen Forms und deren Funktionen:
+Hier ein kurzes Video mit allen Forms und deren Funktionen bei unserem Programm:
 [![](https://i.imgur.com/UdsPUGR.jpg)](https://youtu.be/hF-tRYMbz3U)
 
 ## Reflexion / Verifikation
-Gut
-Schlecht
-Nächstes Mal
+Ich fand es sehr spannend, dass wir in einer 4er Gruppe mit Leuten arbeiten durften, welche wir noch nicht kannten. Nach gewisser Zeit haben wir uns sehr gut verstanden, haben sehr effizient gearbeitet und unsere Stärken ausgenutzt, dadurch kamen wir sehr schnell voran.
+Zu Beginn hatten wir mühe uns zu verstehen und die Stärken zu finden, jedoch kam dieses mit der Zeit. 
+nächstes Mal ist es sicher eine gute Idee 
 
-Mein Banknachbar Ruzicic kann bestätigen, dass 
+Mein Banknachbar Ruzicic weiss nun was ein Form ist und kann eines erstellen, er erfuhr auch wie man mehrer Forms öffnet. Er weiss jedoch auch, wie man nur 1 Fenster offen kann haben.
