@@ -1,4 +1,4 @@
-# HutBetrug - Gruppe Cookie
+# HutBetrug - Gruppe Cookie - Von Matteo Jakob
 ## Aufgabenstellung
 Dieses Projekt haben wir als Schularbeit in einer 4er Gruppe gemacht. Das Programm soll den Benutzer raten lassen, unter welcher der 3 Hüte die Münze, also der Coin, ist. Hier, bei diesem Portfolio, gehe ich mehr zu einem spezifischen Vorgang, wie man mehrere Form-Applikationen öffnet und wie man diese wieder versteckt.
 
