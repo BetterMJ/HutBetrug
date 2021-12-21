@@ -12,9 +12,10 @@ Dieses Projekt haben wir als Schularbeit in einer 4er Gruppe gemacht. Das Progra
 Unter einem Form kann man sich ein Fenster vorstellen, welches komplett leer ist, jedoch kann man auf diesem auch Funktionen einfügen, wie zum Beispiel einen Knopf, Bilder und mehr. Dadurch kann man einfache oder komplexere Programme erstellen, wie unseres in diesem Fall.
 
 Es ist gar nicht so schwer, wie man denkt, ein neues Form zu machen. Zuerst geht man zum Projekt, drückt Rechts-Klick darauf und wählt "Hinzufügen" aus, danach fügt man ein "Windows Form" hinzu. jetzt haben wir bereits ein weiteres Form hinzugefügt und können Änderungen anwenden.
-Um mehrere Forms öffnen zu können, fängt es mit dem Code an; gehe zum Haupt-Code und schreibe folgendes:
+Um mehrere Forms öffnen zu können, fängt es mit dem Code an; gehe zum Haupt-Code und schreibe folgendes in zum Beispiel einen Button:
 
 `Form2 settingsForm = new Form2();`
+
 `settingsForm.Show();`
 
 Nun haben wir 2 Forms offen.
